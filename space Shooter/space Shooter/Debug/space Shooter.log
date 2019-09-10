@@ -1,0 +1,6 @@
+﻿  space Shooter.cpp
+C:\Users\pprabhjo4\source\repos\space Shooter\space Shooter\space Shooter.cpp(21,13): warning C4244:  'initializing': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\pprabhjo4\source\repos\space Shooter\space Shooter\space Shooter.cpp(22,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pprabhjo4\source\repos\space Shooter\space Shooter\space Shooter.cpp(89,16): warning C4244:  '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\pprabhjo4\source\repos\space Shooter\space Shooter\space Shooter.cpp(89,16): warning C4244: C:\Users\pprabhjo4\source\repos\space Shooter\space Shooter\space Shooter.cpp(122) : warning C4715: 'getInt': not all control paths return a value
+  space Shooter.vcxproj -> C:\Users\pprabhjo4\source\repos\space Shooter\Debug\space Shooter.exe
